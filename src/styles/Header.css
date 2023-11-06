@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(25,78,236);
+}
+
+nav{
+    text-decoration: none;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 3.5rem;
+    color: white;
+    font-weight: 1000;
+}
+
+.navBar{
+    display: flex;
+}
+
+
+ul{
+    list-style-type: none;
+}
+li{
+    margin: 2%;
+
+
+
+
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 3.5rem;
+    color: white;
+    font-weight: 1000;
+}
+
+
+p{
+    text-decoration: none;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 1.5rem;
+    color: white;
+    font-weight: 1000; 
+}
