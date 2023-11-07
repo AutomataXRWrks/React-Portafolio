@@ -1,0 +1,15 @@
+
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(8, 5vw);
+    grid-gap: 150px;
+}
+.gallery__img {
+    width: 100%;
+    height: 300%;
+    object-fit: cover;
+}
+
+

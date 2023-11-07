@@ -1,13 +1,29 @@
 body{
     background-color: rgb(25,78,236);
 }
-
+.Alexander{
+    margin-left: 40%;
+    width: 10%;
+    border-radius: 8px;
+    
+}
+mark{
+    background-color: white;
+}
+h1{
+    background-color: white;
+    color: black;
+    font-weight: 1000;
+    font-size: 1.9rem;
+}
 nav{
+    margin-left: 20%;
     text-decoration: none;
     font-family: 'Bodoni Moda', serif;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     color: white;
     font-weight: 1000;
+
 }
 
 .navBar{
@@ -41,4 +57,5 @@ p{
     font-size: 1.5rem;
     color: white;
     font-weight: 1000; 
+
 }
