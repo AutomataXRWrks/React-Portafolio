@@ -1,0 +1,25 @@
+
+
+
+li {
+
+    color: black;
+    font-weight: 1000;
+    font-size: 1.9rem;
+    height: 5%;
+    margin: auto;
+    margin-top: 0.5rem;;
+
+}
+
+mark {
+
+    background-color: white;
+}
+
+header{
+    background-color: white;
+    color: black;
+    font-weight: 1000;
+    font-size: 1.9rem;
+}

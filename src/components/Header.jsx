@@ -7,7 +7,7 @@ function Header() {
     
 
       <nav>
-      <h1>Andres Cedillo Portafolio</h1>
+      <h1>Andres Cedillo Chincoya Portafolio</h1>
         <ul className="navBar">
           <li>
             <Link to="/">About</Link>
@@ -17,6 +17,9 @@ function Header() {
           </li>
           <li>
             <Link to="/contact">Contact me</Link>
+          </li>
+          <li>
+            <Link to="/resume">Resume</Link>
           </li>
           
         </ul>
