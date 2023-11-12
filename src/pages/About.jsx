@@ -16,9 +16,7 @@ function About() {
           worked and collaborated on multimedia projects for different companies and studios. such as Cultus Innovación, Altered Vjs,
           Siete Media, <mark>Cocolab Mexico</mark>, During this years he has been commercially related to brands and companies such as: <mark>Huawei</mark>, 
           <mark>Nike</mark>, <mark>Adidas</mark>,<mark>Disney</mark>, Warner,
-          <mark>Banco de Mexico</mark>,<mark>Clase Azul</mark>. During this time he has been involved in the development and creation of complex interaction systems,
-          to communicate different media and supports in real time such as light show installations, tracking systems, generative visuals,
-          sensors, alternative projection supports, kinetic lights, lasers, machine learning, webapps, VR and AR.
+          <mark>Banco de Mexico</mark>,<mark>Clase Azul</mark>.
           
            </p>
 

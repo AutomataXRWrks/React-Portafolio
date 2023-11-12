@@ -1,15 +1,34 @@
 
-
 .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(8, 5vw);
     grid-gap: 150px;
+    height: 650px;
 }
 .gallery__img {
     width: 100%;
-    height: 300%;
-    object-fit: cover;
+    height: 350%;
+    object-fit:fill;
+
 }
 
 
+.text{
+
+
+      font-family: 'Bodoni Moda', serif;
+      color: black;
+
+}
+
+
+.projectName{
+    position: relative;
+    /* Offsets box 200px from left to center it */
+      top: -70px;  
+      margin-left: 10px;
+    color: black;
+    font-size: 1.8rem;
+    font-weight: 1000; 
+}
